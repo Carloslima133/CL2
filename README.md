@@ -11,7 +11,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar de Carlos" class="rounded-circle" width="150" height="150"
+        <img src="CARLAO AVATAR.web.jpg" alt="avatar de Carlos" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Carlos_</p>
         <h1>Eu sou estudante</h1>
